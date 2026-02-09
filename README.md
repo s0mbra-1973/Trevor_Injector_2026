@@ -6,4 +6,7 @@ Trevor Injector 2026  | Any Process | Any Game | Multi.DLL In Memory Process Inj
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fkb78k72/Trevor-Injector-2026-peq.png" alt="Trevor Injector 2026 peq" border="0"></a>
 
+# COMING SOON
+
 </div>
+
