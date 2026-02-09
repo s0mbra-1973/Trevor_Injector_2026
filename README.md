@@ -58,10 +58,37 @@ A new, lightweight "Sentinel" module that scans your system's "heat" before acti
 
 ---
 
-## ⚠️ Developer Note
-**Trevor Injector 2026** is being built for educational research into advanced memory forensics and defensive evasion. It is designed for those who demand the absolute peak of modern software engineering.
+# ⚖️ Legal Disclaimer / ⚠️ Developer Note
 
-**The repository will be updated with the new branch as soon as the final stability tests are passed.**
+> **IMPORTANT:** This document governs the use of the **Trevor Injector 2026** project. By accessing, downloading, or using any part of this repository, you acknowledge that you have read, understood, and agreed to be bound by the terms outlined below.
+
+---
+
+### 1. Educational and Research Purpose
+**Trevor Injector 2026** is an open-source project developed strictly for **educational, academic, and security research purposes**. Its primary objective is to demonstrate the implementation of:
+* **Post-Quantum Cryptography (PQC)** within low-level systems.
+* **Metamorphic code generation** and execution flow mutation.
+* **Advanced Windows Internals**, including manual mapping and asynchronous procedure calls (APC).
+
+### 2. No Warranty and Limitation of Liability
+The software is provided **"AS IS"**, without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any:
+* Direct, indirect, or incidental damages.
+* System instability, data loss, or hardware failure.
+* Legal consequences resulting from the use or misuse of the source code.
+
+### 3. Compliance and Ethical Use
+The author **does not condone, support, or encourage** the use of this software for any illegal activities or violations of third-party agreements. 
+* **Terms of Service (ToS):** Users are solely responsible for ensuring that their use of this tool does not violate the ToS of any third-party software or online service.
+* **Local Laws:** You must ensure that your use of this software complies with the cyber-security and privacy laws of your jurisdiction.
+
+### 4. Technical Risk Acknowledgment
+Operating at the kernel and memory level involves high-risk procedures. The use of **Thread Context Hijacking**, **VAD Manipulation**, and **Direct Syscalls** can be flagged by security software as malicious behavior. The author is not responsible for any "bans," account terminations, or blacklisting resulting from the use of these techniques in production environments.
+
+### 5. Intellectual Property
+While the project is public, all contributions and original logic regarding the **PQC Sentinel** and **Lattice-based shields** are provided under the project's specific license. Any commercial use or redistribution must maintain the original attribution and legal notices.
+
+---
+*Copyright © 2026 s0mbra-1973. All rights reserved.*
 
 </div>
 
