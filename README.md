@@ -88,8 +88,6 @@ Operating at the kernel and memory level involves high-risk procedures. The use 
 ### 5. Intellectual Property
 While the project is public, all contributions and original logic regarding the **PQC Sentinel** and **Lattice-based shields** are provided under the project's specific license. Any commercial use or redistribution must maintain the original attribution and legal notices.
 
----
-*Copyright © 2026 s0mbra-1973. All rights reserved.*
 
 
 
