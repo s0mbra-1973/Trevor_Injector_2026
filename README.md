@@ -4,8 +4,7 @@
 
 # 💉 Trevor Injector 2026: Mathematical Invisibility
 
-**Next-Generation Stealth | PQC-based hiding techniques | Multi .DLL In Memory Process Injector | Metamorphic Engine | PQC Lattice Shield | Threadless Hijacking **  
-****
+**Next-Generation Stealth | PQC-based hiding techniques | Multi .DLL In Memory Process Injector | Metamorphic Engine**
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fkb78k72/Trevor-Injector-2026-peq.png" alt="Trevor Injector 2026 peq" border="0"></a>
 
