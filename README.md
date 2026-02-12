@@ -25,7 +25,7 @@ The game has changed. Standard manual mappers are no longer enough to bypass mod
 
 ## 🚀 The 2026 Tech Stack (Alpha)
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/LDBV5C7z/Trevor-Injector-2026-SCHEMA.png" alt="Trevor Injector 2026 SCHEMA" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/v6ZPrzbW/Trevor-Injector-2026-SCHEMA.png" alt="Trevor Injector 2026 SCHEMA" border="0"></a>
 
 # 🧬 Metamorphic Engine v2
 In **Trevor Injector 2026**, signatures are obsolete. Our new engine ensures that no two binaries are ever the same.
