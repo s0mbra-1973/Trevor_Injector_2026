@@ -24,6 +24,40 @@ The game has changed. Standard manual mappers are no longer enough to bypass mod
 
 ## 🚀 The 2026 Tech Stack
 
+TREVOR_2026_ROOT/
+│
+├── Core/                         # Orchestration & Mutation Logic
+│   ├── main.cpp                  # Entry point
+│   ├── MetamorphicEngine.cpp     # Runtime code re-writer
+│   ├── MetamorphicEngine.h       # Mutation definitions
+│   └── Config.h                  # Build flags and constants
+│
+├── Shield/                       # Quantum Resistance & Anti-Analysis
+│   ├── PQC_Logic.cpp             # Opaque predicates (LWE)
+│   ├── PQC_Logic.h               # Lattice mathematical structures
+│   ├── AntiDebug.cpp             # Debugger and Hook detection
+│   └── Obfuscator.h              # Compile-time string obfuscation
+│
+├── Injection/                    # Deployment Engines
+│   ├── ThreadlessHijack.cpp      # Thread context hijacking
+│   ├── ManualMap.cpp             # Custom PE mapping
+│   ├── SyscallWrapper.cpp        # Direct Syscall execution
+│   └── SyscallWrapper.h          # Dynamic Syscall ID definitions
+│
+├── Sentinel/                     # System Telemetry & Intelligence
+│   ├── HeatMonitor.cpp           # EDR/AV Hook detection
+│   ├── SafetyWindow.cpp          # Execution timing analyzer
+│   └── Telemetry.h               # System state structures
+│
+├── Include/                      # Low-level Headers
+│   ├── ntdll_defs.h              # Native Windows API definitions
+│   └── win_internals.h           # PEB, TEB, and VAD structures
+│
+└── Resources/                    # Assets & Metadata
+    ├── Payload.enc               # PQC-encrypted binary
+    ├── Trevor.ico                # Project icon
+    └── Resource.rc               # Resource script
+
 # 🧬 Metamorphic Engine v2
 In **Trevor Injector 2026**, signatures are obsolete. Our new engine ensures that no two binaries are ever the same.
 * **Code Mutation:** Every build reshuffles its internal function order and registers used.
