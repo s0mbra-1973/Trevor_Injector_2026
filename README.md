@@ -22,7 +22,7 @@ The game has changed. Standard manual mappers are no longer enough to bypass mod
 </div>
 ---
 
-## 🚀 The 2026 Tech Stack
+## 🚀 The 2026 Tech Stack (Alpha)
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/LDBV5C7z/Trevor-Injector-2026-SCHEMA.png" alt="Trevor Injector 2026 SCHEMA" border="0"></a>
 
