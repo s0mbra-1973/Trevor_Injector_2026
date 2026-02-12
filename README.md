@@ -29,7 +29,6 @@
 **Trevor Injector 2026 is a complete architectural reimagining, designed to provide the highest level of OPSEC and execution stealth available in the public domain.**
 
 
-
 ## 🚀 The 2026 Tech Stack (Alpha)
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/v6ZPrzbW/Trevor-Injector-2026-SCHEMA.png" alt="Trevor Injector 2026 SCHEMA" border="0"></a>
