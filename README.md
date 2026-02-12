@@ -2,6 +2,8 @@
   
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fs0mbra-1973%2FTrevor&label=People%20Interested%20in%20Trevor%20Injector%202026%3A&labelColor=%23000000&countColor=%23000d00)  
 
+# 💉 Trevor Injector 2026: Mathematical Invisibility
+
 **Trevor Injector 2026**  | Any Process | Any Game | Multi.DLL In Memory Process Injector for Windows 11  
 **NEW!: Metamorphic Engine | PQC Lattice Shield | Threadless Hijacking | Windows 11 Stealth Injector**
 
@@ -18,8 +20,6 @@
   
   (*) This image is just a draft of the UI.
 </div>
-
-# 🛡️ Trevor Injector 2026: Mathematical Invisibility
 
 > **Current Status:** In Active Development / Alpha Testing  
 > **Estimated Arrival:** Q1 2026
