@@ -13,6 +13,10 @@
 # Trevor Injector 2026:
 "While they study the past, we are encrypting the future.  Mathematical Invisibility."
 
+<div align="center">
+<a href="https://ibb.co/W1VjLVw"><img src="https://i.ibb.co/03svxsS/Trevor-Injector-2026-MOCKUP.png" alt="Trevor-Injector-2026-MOCKUP" border="0"></a>
+</div>
+
 # 🛡️ Trevor Injector 2026: The New Standard
 
 > **Current Status:** In Active Development / Alpha Testing  
