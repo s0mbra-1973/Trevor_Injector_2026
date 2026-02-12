@@ -55,7 +55,7 @@ A new, lightweight "Sentinel" module that scans your system's "heat" before acti
 
 | Milestone | Feature | Status |
 | :--- | :--- | :--- |
-| **Phase I** | PQC Logic & Lattice Implementation | ✅ Complete |
+| **Phase I** | PQC Logic & Lattice Implementation | 🔄 In Progress |
 | **Phase II** | Metamorphic Engine Integration | 🔄 Testing |
 | **Phase III** | Threadless Hijacking Refinement | 🔄 In Progress |
 | **Phase IV** | **Public Release 2026** | 📅 Soon |
