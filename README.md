@@ -11,7 +11,6 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/SDn7s2F4/Trevor-Injector-2026-PQC.png" alt="Trevor Injector 2026 PQC" border="0"></a>
 
 # COMING SOON...
-# Trevor Injector 2026:
 "While they study the past, we are encrypting the future."
 
 <div align="center">
