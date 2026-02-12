@@ -25,10 +25,10 @@
 > **Estimated Arrival:** Q1 2026
 
 **The game has changed. Standard manual mappers are no longer enough to bypass modern, AI-driven telemetry and heuristic scanners.**
+
 **Trevor Injector 2026 is a complete architectural reimagining, designed to provide the highest level of OPSEC and execution stealth available in the public domain.**
 
 </div>
----
 
 ## 🚀 The 2026 Tech Stack (Alpha)
 
