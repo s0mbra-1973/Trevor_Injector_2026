@@ -4,7 +4,7 @@
 
 # 💉 Trevor Injector 2026: Mathematical Invisibility
 
-**Next-Generation Stealth | PQC-based hiding techniques | Multi .DLL In Memory Process Injector | Metamorphic Engine**
+**Next-Generation Stealth | PQC-based hiding techniques | Multi .DLL Memory Process Injector | Metamorphic Engine**
 
 **The game has changed. Standard manual mappers are no longer enough to bypass modern, AI-driven telemetry and heuristic scanners.**
 
