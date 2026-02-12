@@ -6,6 +6,10 @@
 
 **Next-Generation Stealth | PQC-based hiding techniques | Multi .DLL In Memory Process Injector | Metamorphic Engine**
 
+**The game has changed. Standard manual mappers are no longer enough to bypass modern, AI-driven telemetry and heuristic scanners.**
+
+**Trevor Injector 2026 is a complete architectural reimagining, designed to provide the highest level of OPSEC and execution stealth available in the public domain.**
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fkb78k72/Trevor-Injector-2026-peq.png" alt="Trevor Injector 2026 peq" border="0"></a>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/SDn7s2F4/Trevor-Injector-2026-PQC.png" alt="Trevor Injector 2026 PQC" border="0"></a>
@@ -21,11 +25,6 @@
 
 > **Current Status:** In Active Development / Alpha Testing  
 > **Estimated Arrival:** Q1 2026
-
-**The game has changed. Standard manual mappers are no longer enough to bypass modern, AI-driven telemetry and heuristic scanners.**
-
-**Trevor Injector 2026 is a complete architectural reimagining, designed to provide the highest level of OPSEC and execution stealth available in the public domain.**
-
 
 ## 🚀 The 2026 Tech Stack (Alpha)
 
